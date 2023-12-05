@@ -1,0 +1,4 @@
+baseURL = "https://facaslo.github.io"
+languageCode = "es-co"
+title = "My personal blog"
+theme = "blowfish"
