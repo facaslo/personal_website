@@ -1,4 +1,12 @@
 baseURL = "https://facaslo.github.io"
 languageCode = "es-co"
-title = "My personal blog"
 theme = "blowfish"
+
+[author]
+name = "Fabian Camilo Castro Lozano"
+title = "An electric sheep dream"
+headline = "Fabian Castro's personal website"
+bio = "Computer and Systems Engineer - Universidad Nacional de Colombia - Backend Engineer"
+links = [
+  {linked_in = "https://www.linkedin.com/in/fabian-castro-4ab6a199/"}
+]
